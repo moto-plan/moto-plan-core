@@ -1,0 +1,156 @@
+{
+  "Most": {
+    "name": "Autodrom Most",
+    "website": "https://autodrom-most.cz",
+    "photo": "most_pohled.png",
+    "length_m": 4212,
+    "width_m": "12–14",
+    "elevation_m": 12.04,
+    "capacity": 50
+  },
+  "Brno": {
+    "name": "Automotodrom Brno",
+    "website": "https://automotodrombrno.cz",
+    "photo": "brno.jpeg",
+    "length_m": 5403,
+    "width_m": "15",
+    "elevation_m": 73,
+    "capacity": 50
+  },
+  "Rijeka": {
+    "name": "Rijeka",
+    "website": "https://grobnik.hr",
+    "photo": "rijeka.jpeg",
+    "length_m": 4168,
+    "width_m": "10.6",
+    "elevation_m": null,
+    "note": "slope 10 %",
+    "capacity": 50
+  },
+  "Lichtenberg": {
+    "name": "Erzgebirgsring Lichtenberg",
+    "website": "https://erzgebirgsring.de",
+    "photo": "lichtenberg.jpeg",
+    "length_m": 1100,
+    "width_m": "8–10",
+    "elevation_m": 8,
+    "capacity": 34
+  },
+  "Písek": {
+    "name": "Okruh Písek",
+    "website": "https://autoklub-pisek.cz",
+    "photo": "pisek.jpeg",
+    "length_m": 1250,
+    "width_m": "7–12",
+    "elevation_m": 4,
+    "capacity": 34
+  },
+  "Vysoké Mýto": {
+    "name": "Okruh Vysoké Mýto",
+    "website": "https://autodromvmyto.cz",
+    "photo": "myto.png",
+    "length_m": 1122,
+    "width_m": "8–10",
+    "elevation_m": 11,
+    "capacity": 34
+  },
+  "Sosnová": {
+    "name": "Autodrom Sosnová",
+    "website": "https://autodrom-sosnova.cz",
+    "photo": "sosnova.png",
+    "length_m": 1800,
+    "width_m": "10–12",
+    "elevation_m": 12,
+    "capacity": 40
+  },
+  "Hořovice": {
+    "name": "Hořovice",
+    "website": "https://autodromhorovice.cz",
+    "photo": "horovice.png",
+    "length_m": 1850,
+    "width_m": "8–10",
+    "elevation_m": 6,
+    "capacity": 30
+  },
+  "Pannoniaring": {
+    "name": "Pannoniaring",
+    "website": "https://pannoniaring.hu",
+    "photo": "pannonia.jpeg",
+    "length_m": 4556,
+    "width_m": "12",
+    "elevation_m": 40,
+    "capacity": 50
+  },
+  "Sachsenring": {
+    "name": "Sachsenring",
+    "website": "https://sachsenring.de",
+    "photo": "sachsen.jpeg",
+    "length_m": 3671,
+    "width_m": "12–13",
+    "elevation_m": 35,
+    "capacity": 50
+  },
+  "Slovakiaring": {
+    "name": "Slovakiaring",
+    "website": "https://slovakiaring.sk",
+    "photo": "slovakiaring.jpeg",
+    "length_m": 5955,
+    "width_m": "12–20",
+    "elevation_m": 28,
+    "capacity": 60
+  },
+  "Polygon Most": {
+    "name": "Polygon Most",
+    "website": "https://autodrom-most.cz",
+    "photo": "most_pohled.png",
+    "length_m": 4212,
+    "width_m": "12–14",
+    "elevation_m": 12.04,
+    "capacity": 50
+  },
+  "Misano": {
+    "name": "Misano World Circuit",
+    "website": "https://www.misanocircuit.com",
+    "photo": null,
+    "length_m": 4226,
+    "width_m": "14",
+    "elevation_m": null,
+    "capacity": null
+  },
+  "Cartagena": {
+    "name": "Circuito de Cartagena",
+    "website": "https://circuitodecartagena.es",
+    "photo": null,
+    "length_m": 3114,
+    "width_m": "11",
+    "elevation_m": null,
+    "capacity": null
+  },
+  "Valencia": {
+    "name": "Circuit Ricardo Tormo",
+    "website": "https://www.circuitricardotormo.com",
+    "photo": null,
+    "length_m": 4005,
+    "width_m": "12",
+    "elevation_m": null,
+    "capacity": null
+  },
+  "Almería": {
+    "name": "Circuito de Almería",
+    "website": "https://www.circuitodealmeria.com",
+    "photo": null,
+    "length_m": 4120,
+    "width_m": "12",
+    "elevation_m": null,
+    "capacity": null
+  },
+  "Cheb": {
+    "name": "Kartarena Cheb",
+    "website": "https://www.funarenacheb.cz",
+    "photo": "cheb.jpeg",
+    "length_m": 1202,
+    "width_m": "8–10",
+    "elevation_m": null,
+    "capacity": 34
+  }
+}
