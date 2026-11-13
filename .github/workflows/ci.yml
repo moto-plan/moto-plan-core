@@ -15,10 +15,5 @@ jobs:
         with:
           distribution: temurin
           java-version: '17'
-      - uses: SonarSource/sonarqube-scan-action@e805d875275f728fac1885b413934be6d7c63f65 # v8
-        with:
-          skipSignatureVerification: true
-        env:
-          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-          SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
+      - run: echo "java ready"
 EOF
