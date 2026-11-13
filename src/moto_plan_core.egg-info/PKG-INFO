@@ -1,5 +1,0 @@
-Metadata-Version: 2.4
-Name: moto-plan-core
-Version: 0.1.0
-Summary: Shared parsing, scraping, and persistence code for Moto Plan
-Requires-Python: >=3.11
