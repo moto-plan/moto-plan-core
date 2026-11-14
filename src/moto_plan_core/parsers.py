@@ -341,7 +341,8 @@ class EventParser:
             events.append(Event(
                 agency=agency, track_name=track, date=date_str, url=url,
                 year=date_obj.get("year") if date_obj else None,
-                month_num=month_num, month_end=date_obj.get("month_end", month_num),
+                month_num=month_num,
+                month_end=date_obj.get("month_end", month_num) if date_obj else month_num,
                 day=date_obj.get("day") if date_obj else None,
                 day_end=date_obj.get("day_end") if date_obj else None,
                 day_of_week=day_of_week, prices=prices, sold_out=sold_out,

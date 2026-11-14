@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "moto-plan-core"
-version = "0.1.0"
+version = "0.1.1"
 description = "Shared parsing, scraping, and persistence code for Moto Plan"
 requires-python = ">=3.11"
 
@@ -13,3 +13,8 @@ where = ["src"]
 
 [tool.setuptools.package-data]
 moto_plan_core = ["tracks.json"]
+
+[tool.coverage.run]
+# Only production code goes into the SonarQube coverage report; test modules
+# are indexed via sonar.tests and must not inflate/obscure the number.
+omit = ["tests/*"]
