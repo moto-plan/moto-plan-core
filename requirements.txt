@@ -1,0 +1,4 @@
+beautifulsoup4>=4.12
+# Two parsers import playwright lazily (and degrade gracefully if it is
+# missing); the test suite needs the import to resolve.
+playwright>=1.50
